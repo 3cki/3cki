@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I am specializing in web development with personal interest in automated bots and services.
+I am specializing in web development with personal interest in automated bots and services. Feel free to look around my profile, repositories and organizations.
 
-| Languages  | Frontend    | Backend  | Mobile  |
-| ---------- | ----------- | -------- | ------- |
-| JavaScript | React       | Node.js  | Flutter |
-| TypeScript | Redux       | Axios    |
+| Languages  | Frontend    | Backend  | Mobile  | Automation |
+| ---------- | ----------- | -------- | ------- | ---------- |
+| JavaScript | React       | Node.js  | Flutter | Selenium   |
+| TypeScript | Redux       | Axios    |         | Telegraf   |
 | Python     | Bootstrap   | AWS      |
-|            | Material UI | Telegraf |
-|            | Selenium    |
+|            | Material UI | Firebase |
+|            |             | Heroku   |
