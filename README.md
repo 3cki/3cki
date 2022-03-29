@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Max 👋
 
 I'm a **web developer** with personal interest in automation and bots. 🤖
 
