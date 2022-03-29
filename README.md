@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am specializing in web development with personal interest in automated bots and services. Feel free to look around my profile, repositories and organizations.
+I'm a web developer with personal interest in automation and bots. Feel free to look around my profile, repositories and organizations.
 
 ### A little overview over my skills:
 
